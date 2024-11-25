@@ -1,0 +1,123 @@
+body{
+    direction: ltr;
+    text-align: left;
+}
+
+#burgerBtn {
+    right: 30px;
+}
+
+
+.AbDotts_img, .ScDotts_img2{
+    left: 0;
+}
+
+.email__icon {
+    right: 20px;
+}
+
+.dropdown__Firstmenu {
+    left: 0;
+}
+
+.indexHome_btn, .whats_Btn {
+    left: 70px;
+}
+
+.cahtHome_btn, .meetHome_btn {
+    right: 70px;
+}
+.aboutWide_img {
+    left: 15%;
+}
+.aboutSCmd_img {
+    right: 0;
+}
+
+.aboutTH_wrap.hasRounded_bk::before {
+    right: 0;
+}
+.aboutTH_wrap.hasRounded_bk::after {
+    right: 40px;
+}
+.sideSocial_list {
+    left: 0;
+}
+.SForm__submit {
+    left: 16px;
+}
+.mtngS__Stuts {
+    left: 20px;
+}
+.chick_noti {
+    right: -6px;
+}
+.notif_date {
+    right: 20px;
+}
+.progress-bar::after {
+    right: 0;
+}
+.shareTM__link {
+    right: 22px;
+}
+.sbsImg_grey {
+    right: 27px;
+}
+.SaboutSM_img {
+    left: 0;
+}
+.close__modal {
+    right: 20px;
+}
+.absAlert_red {
+    right: 30px;
+}
+.absTime_icon {
+    left: 20px;
+}
+.msgAbs_span {
+    right: 15px;
+}
+.GSMImg_grey {
+    right: 100px;
+}
+.GSMImg_Scnd {
+    right: 20px;
+}
+.remove__img {
+    right: 14px;
+}
+.pdf_abs {
+    right: 24px;
+}
+.password__icon {
+    right: 20px;
+}
+
+@media(min-width: 992px) {
+    .testOne__slider::before{
+        left: -40px;
+    }
+    .ShabbanTS__slider::before {
+        right: 0;
+    }
+    .testOne__slider::after{
+        right: -40px;
+    }
+    .ShabbanTS__slider::after {
+        left: 0;
+    }
+    .blueBk_contWrap::after {
+        left: -40px;
+    }
+}
+
+@media(max-width: 991px) {
+    .indexHome_btn {
+        left: 10px;
+    }
+    .cahtHome_btn, .meetHome_btn {
+        right: 10px;
+    }
+}
