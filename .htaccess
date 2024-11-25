@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteRule ^(.*)$ public/$1 [L]
+=======
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(.*)$ public/$1 [L]
+>>>>>>> 61f6cd27a1180dfa8015dfd353d164d25a844705
 </IfModule>
